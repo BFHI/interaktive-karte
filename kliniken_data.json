@@ -1,0 +1,1934 @@
+[
+    {
+        "name": "St. Franziskus-Hospital Ahlen",
+        "strasse": "Robert-Koch-Straße 55",
+        "plz": "59227",
+        "ort": "Ahlen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.76732895000001,
+            7.884783981928417
+        ]
+    },
+    {
+        "name": "KJF Klinik Josefinum gGmbH",
+        "strasse": "Joseph-Mayer-Straße 1",
+        "plz": "86154",
+        "ort": "Augsburg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            48.38535635,
+            10.876106916417667
+        ]
+    },
+    {
+        "name": "KJF Klinik Josefinum gGmbH",
+        "strasse": "Joseph-Mayer-Straße 1",
+        "plz": "86154",
+        "ort": "Augsburg",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            48.38535635,
+            10.876106916417667
+        ]
+    },
+    {
+        "name": "Ubbo-Emmius-Klinik GmbH - Ostfriesisches Krankenhaus",
+        "strasse": "Wallinghausener Str. 8-12",
+        "plz": "26603",
+        "ort": "Aurich",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            53.4685856,
+            7.4973294
+        ]
+    },
+    {
+        "name": "Ubbo-Emmius-Klinik GmbH / Ostfriesisches Krankenhaus",
+        "strasse": "Wallinghausener Str. 8-12",
+        "plz": "26603",
+        "ort": "Aurich",
+        "abteilung": "Kinderklinik",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            53.4685856,
+            7.4973294
+        ]
+    },
+    {
+        "name": "Gesundheitszentrum Wetterau GmbH - Hochwaldkrankenhaus Bad Nauheim",
+        "strasse": "Chaumontplatz 1",
+        "plz": "61231",
+        "ort": "Bad Nauheim",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.3571253,
+            8.729155544397686
+        ]
+    },
+    {
+        "name": "AK Segeberger Kliniken GmbH",
+        "strasse": "Krankenhausstr. 2",
+        "plz": "23795",
+        "ort": "Bad Segeberg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            53.94114855,
+            10.309498962840504
+        ]
+    },
+    {
+        "name": "Kliniken des Main-Taunus-Kreises GmbH",
+        "strasse": "Kronberger Str. 36",
+        "plz": "65812",
+        "ort": "Bad Soden",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.1505305,
+            8.5135951
+        ]
+    },
+    {
+        "name": "Zollernalb Klinikum Balingen",
+        "strasse": "Tübinger Str. 30",
+        "plz": "72336",
+        "ort": "Balingen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            48.2775609,
+            8.857283621401757
+        ]
+    },
+    {
+        "name": "Vinzenz Pallotti Hospital, GFO Kliniken Rhein-Berg",
+        "strasse": "Vinzenz-Pallotti-Str. 20-24",
+        "plz": "51429",
+        "ort": "Bergisch Gladbach",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.9616272,
+            7.1747873
+        ]
+    },
+    {
+        "name": "Ev. Krankenhaus Bergisch Gladbach",
+        "strasse": "Ferrenbergstraße 24",
+        "plz": "51465",
+        "ort": "Bergisch Gladbach",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            50.98979785,
+            7.137392765172937
+        ]
+    },
+    {
+        "name": "Vivantes Humboldt-Klinikum",
+        "strasse": "Am Nordgraben 2",
+        "plz": "13509",
+        "ort": "Berlin",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            52.5880317,
+            13.3074567
+        ]
+    },
+    {
+        "name": "Sana Klinikum Lichtenberg",
+        "strasse": "Fanningerstraße 32",
+        "plz": "10365",
+        "ort": "Berlin",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            52.5129849,
+            13.4951362
+        ]
+    },
+    {
+        "name": "Vivantes Klinikum Im Friedrichshain",
+        "strasse": "Landsberger Allee 49",
+        "plz": "10249",
+        "ort": "Berlin",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            52.5247741,
+            13.4387162
+        ]
+    },
+    {
+        "name": "Maria Heimsuchung Caritas-Klinik Pankow",
+        "strasse": "Breite Str. 46/47",
+        "plz": "13187",
+        "ort": "Berlin",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            52.569368,
+            13.4032162
+        ]
+    },
+    {
+        "name": "Gemeinschaftskrankenhaus Havelhöhe",
+        "strasse": "Kladower Damm 221",
+        "plz": "14089",
+        "ort": "Berlin",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            52.4611493,
+            13.160241
+        ]
+    },
+    {
+        "name": "DRK Klinik Berlin Westend, Klinik für Geburtshilfe und Perinalmedizin",
+        "strasse": "Spandauer Damm 130",
+        "plz": "14050",
+        "ort": "Berlin",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            52.5203914,
+            13.2773697
+        ]
+    },
+    {
+        "name": "Franziskus Hospital Bielefeld",
+        "strasse": "Kiskerstraße 26",
+        "plz": "33615",
+        "ort": "Bielefeld",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            52.0230357,
+            8.52315
+        ]
+    },
+    {
+        "name": "St. Agnes-Hospital Bocholt - Klinikum Westmünsterland GmbH",
+        "strasse": "Barloer Weg 125",
+        "plz": "46397",
+        "ort": "Bocholt",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.8545866,
+            6.6267782
+        ]
+    },
+    {
+        "name": "Augusta-Kranken-Anstalt gGmbH",
+        "strasse": "Bergstraße 26",
+        "plz": "44791",
+        "ort": "Bochum",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.4851797,
+            7.2227631
+        ]
+    },
+    {
+        "name": "St. Elisabeth Hospital Bochum",
+        "strasse": "Bleichstraße 15",
+        "plz": "44787",
+        "ort": "Bochum",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.4827087,
+            7.2212022
+        ]
+    },
+    {
+        "name": "St. Elisabeth-Hospital",
+        "strasse": "Bleichstraße 15",
+        "plz": "44787",
+        "ort": "Bochum",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.4827087,
+            7.2212022
+        ]
+    },
+    {
+        "name": "Gemeinschaftskrankenhaus Bonn - Haus St. Elisabeth",
+        "strasse": "Prinz-Albert-Str. 40",
+        "plz": "53113",
+        "ort": "Bonn",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            50.72777135,
+            7.102901023629291
+        ]
+    },
+    {
+        "name": "GFO Kliniken Bonn, Standort St. Marien",
+        "strasse": "Robert-Koch-Straße 1",
+        "plz": "53115",
+        "ort": "Bonn",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            50.7173217,
+            7.0935899
+        ]
+    },
+    {
+        "name": "GFO Kliniken Bonn, Standort St. Marien",
+        "strasse": "Robert-Koch-Straße 1",
+        "plz": "53115",
+        "ort": "Bonn",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            50.7173217,
+            7.0935899
+        ]
+    },
+    {
+        "name": "Sana Kliniken Leipziger Land GmbH  - Klinikum Borna",
+        "strasse": "Rudolf-Virchow-Str. 3",
+        "plz": "4552",
+        "ort": "Borna",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.1344529,
+            12.5037129
+        ]
+    },
+    {
+        "name": "Fürst-Stirum-Klinik Bruchsal",
+        "strasse": "Gutleutstr. 1-14",
+        "plz": "76646",
+        "ort": "Bruchsal",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.1318439,
+            8.6041142
+        ]
+    },
+    {
+        "name": "GFO Klinik Brühl Marienhospital",
+        "strasse": "Mühlenstraße 21-25",
+        "plz": "50321",
+        "ort": "Brühl",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            50.8272193,
+            6.900417306360266
+        ]
+    },
+    {
+        "name": "Landkreis Schwäbisch Hall Klinikum gGmbH",
+        "strasse": "Gartenstr. 21",
+        "plz": "74564",
+        "ort": "Crailsheim",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.1357543,
+            10.077234574567324
+        ]
+    },
+    {
+        "name": "Kreiskrankenhaus Demmin",
+        "strasse": "Wollweberstr. 21",
+        "plz": "17109",
+        "ort": "Demmin",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            53.90192665,
+            13.041954485532582
+        ]
+    },
+    {
+        "name": "GFO Kliniken Niederrhein St. Vinzenz-Hospital",
+        "strasse": "Dr.-Otto-Seidel-Straße 31-33",
+        "plz": "46535",
+        "ort": "Dinslaken",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.5601766,
+            6.7273684
+        ]
+    },
+    {
+        "name": "GFO Kliniken Niederrhein St. Vinzenz-Hospital",
+        "strasse": "Dr.-Otto-Seidel-Str. 31-33",
+        "plz": "46535",
+        "ort": "Dinslaken",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.5601766,
+            6.7273684
+        ]
+    },
+    {
+        "name": "St. Josefs-Hospital Dortmund-Hörde",
+        "strasse": "Wilhelm-Schmidt-Str. 4",
+        "plz": "44263",
+        "ort": "Dortmund",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.4850979,
+            7.505132292974832
+        ]
+    },
+    {
+        "name": "Diakonissenkrankenhaus Dresden",
+        "strasse": "Holzhofgasse 29",
+        "plz": "1099",
+        "ort": "Dresden",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.06301715,
+            13.7616090996423
+        ]
+    },
+    {
+        "name": "Krankenhaus St. Joseph-Stift",
+        "strasse": "Wintergartenstr. 15/17",
+        "plz": "1307",
+        "ort": "Dresden",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.0443213,
+            13.7609919
+        ]
+    },
+    {
+        "name": "Marien Hospital Düsseldorf",
+        "strasse": "Rochusstr. 2",
+        "plz": "40479",
+        "ort": "Düsseldorf",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.2357018,
+            6.7846466
+        ]
+    },
+    {
+        "name": "Kaiserswerther Diakonie - Florence-Nightingale-Krankenhaus",
+        "strasse": "Kreuzberg Str. 79",
+        "plz": "40489",
+        "ort": "Düsseldorf",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.3004892,
+            6.7495031
+        ]
+    },
+    {
+        "name": "Rottal-Inn-Kliniken Kommunalunternehmen - Eggenfelden",
+        "strasse": "Simonsöder Allee 20",
+        "plz": "84307",
+        "ort": "Eggenfelden",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            48.4133097,
+            12.76003629186902
+        ]
+    },
+    {
+        "name": "Alb-Donau Klinikum Ehingen",
+        "strasse": "Spitalstr. 29",
+        "plz": "89584",
+        "ort": "Ehingen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            48.2807435,
+            9.7190806
+        ]
+    },
+    {
+        "name": "St. Georg Klinikum Eisenach",
+        "strasse": "Mühlhäuser Straße 94-95",
+        "plz": "99817",
+        "ort": "Eisenach",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.9882099,
+            10.314392
+        ]
+    },
+    {
+        "name": "Kreiskrankenhaus Emmendingen",
+        "strasse": "Gartenstraße 44",
+        "plz": "79312",
+        "ort": "Emmendingen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            48.1251192,
+            7.855933331678155
+        ]
+    },
+    {
+        "name": "Helios Klinikum Erlenbach",
+        "strasse": "Krankenhausstr. 45",
+        "plz": "63906",
+        "ort": "Erlenbach am Main",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.812661,
+            9.165551351655076
+        ]
+    },
+    {
+        "name": "Klinikum Werra-Meißner GmbH",
+        "strasse": "Elsa-Brändström-Str. 1",
+        "plz": "37269",
+        "ort": "Eschwege",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.1827575,
+            10.0503338
+        ]
+    },
+    {
+        "name": "Elisabeth-Krankenhaus Essen",
+        "strasse": "Klara-Kopp-Weg 1",
+        "plz": "45138",
+        "ort": "Essen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.444862400000005,
+            7.033288469337362
+        ]
+    },
+    {
+        "name": "Universitätsklinikum Essen",
+        "strasse": "Hufelandstraße 55",
+        "plz": "45147",
+        "ort": "Essen",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.4338814,
+            6.9893957
+        ]
+    },
+    {
+        "name": "Marien-Hospital Euskirchen GmbH",
+        "strasse": "Gottfried-Disse-Str. 40",
+        "plz": "53879",
+        "ort": "Euskirchen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.6422052,
+            6.7914835
+        ]
+    },
+    {
+        "name": "Filderklinik gGmbH",
+        "strasse": "Im Haberschlai 7",
+        "plz": "70794",
+        "ort": "Filderstadt",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            48.6478404,
+            9.2048526
+        ]
+    },
+    {
+        "name": "Klinikum Forchheim",
+        "strasse": "Krankenhausstraße 10",
+        "plz": "91301",
+        "ort": "Forchheim",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            49.71330725,
+            11.07931529253709
+        ]
+    },
+    {
+        "name": "Evangelisches Diakoniekrankenhaus Freiburg",
+        "strasse": "Wirthstr. 11",
+        "plz": "79110",
+        "ort": "Freiburg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            48.02390075,
+            7.815719787310101
+        ]
+    },
+    {
+        "name": "Artemed Kliniken Freiburg gGmbH, St. Josefskrankenhaus Freiburg",
+        "strasse": "Sautierstraße 1",
+        "plz": "79104",
+        "ort": "Freiburg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            48.0016474,
+            7.852053298030885
+        ]
+    },
+    {
+        "name": "Artemed Kliniken Freiburg gGmbH",
+        "strasse": "Sautierstraße 1",
+        "plz": "79104",
+        "ort": "Freiburg",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            48.0016474,
+            7.852053298030885
+        ]
+    },
+    {
+        "name": "Klinikum Freising",
+        "strasse": "Alois-Steinecker-Straße 18",
+        "plz": "85354",
+        "ort": "Freising",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            48.4042125,
+            11.7448641
+        ]
+    },
+    {
+        "name": "Krankenhäuser Landkreis Freudenstadt gGmbH",
+        "strasse": "Karl-von-Hahn-Straße 120",
+        "plz": "72250",
+        "ort": "Freudenstadt",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            48.4775189,
+            8.40539250718258
+        ]
+    },
+    {
+        "name": "Klinikum Fürth",
+        "strasse": "Jakob-Henle-Straße 1",
+        "plz": "90766",
+        "ort": "Fürth",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            49.4838721,
+            10.9721191
+        ]
+    },
+    {
+        "name": "Klinikum Garmisch-Partenkirchen",
+        "strasse": "Auenstraße 6",
+        "plz": "82467",
+        "ort": "Garmisch-Partenkirchen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            47.48331345,
+            11.128378706588776
+        ]
+    },
+    {
+        "name": "Johanniter-Krankenhaus Geesthacht",
+        "strasse": "Am Runden Berge 3",
+        "plz": "21502",
+        "ort": "Geesthacht",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            53.4315573,
+            10.3856613
+        ]
+    },
+    {
+        "name": "Universitätsklinikum Gießen und Marburg GmbH",
+        "strasse": "Rudolf-Buchheim-Straße 8",
+        "plz": "35392",
+        "ort": "Gießen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            50.5767786,
+            8.66492804506954
+        ]
+    },
+    {
+        "name": "Universitätsklinikum Gießen und Marburg GmbH",
+        "strasse": "Rudolf-Buchheim-Straße 8",
+        "plz": "35392",
+        "ort": "Gießen",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            50.5767786,
+            8.66492804506954
+        ]
+    },
+    {
+        "name": "Helios Kreiskrankenhaus Gotha / Ohrdruf GmbH",
+        "strasse": "Heliosstr. 1",
+        "plz": "99867",
+        "ort": "Gotha",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.92841655,
+            10.677610437050788
+        ]
+    },
+    {
+        "name": "AGAPLESION Krankenhaus Neu-Bethlehem GmbH",
+        "strasse": "Humboldtallee 8",
+        "plz": "37073",
+        "ort": "Göttingen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.5409926,
+            9.9434648
+        ]
+    },
+    {
+        "name": "Universitätsklinikum Greifswald Klinik",
+        "strasse": "Fleischmannstraße 8",
+        "plz": "17475",
+        "ort": "Greifswald",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            54.08802585,
+            13.40292324589344
+        ]
+    },
+    {
+        "name": "Kreiskrankenhaus Grünstadt",
+        "strasse": "Westring 55",
+        "plz": "67269",
+        "ort": "Grünstadt",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.5637576,
+            8.157830507901597
+        ]
+    },
+    {
+        "name": "Sankt Elisabeth Hospital Gütersloh gGmbH",
+        "strasse": "Stadtring Kattenstroth 130",
+        "plz": "33332",
+        "ort": "Gütersloh",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.8817085,
+            8.383354
+        ]
+    },
+    {
+        "name": "Klinikum Gütersloh gGmbH",
+        "strasse": "Reckenberger Straße 19",
+        "plz": "33332",
+        "ort": "Gütersloh",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.8979127,
+            8.3850403
+        ]
+    },
+    {
+        "name": "Evangelisches Amalie-Sieveking-Krankenhaus gGmbH Hamburg",
+        "strasse": "Haselkamp 33",
+        "plz": "22359",
+        "ort": "Hamburg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            53.6407943,
+            10.150596
+        ]
+    },
+    {
+        "name": "Asklepios Klinik Nord - Heidberg",
+        "strasse": "Tangstedter Landstr. 400",
+        "plz": "22417",
+        "ort": "Hamburg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            53.6746776,
+            10.0289778
+        ]
+    },
+    {
+        "name": "Agaplesion Bethesda Krankenhaus Bergedorf gGmbH",
+        "strasse": "Glindersweg 80",
+        "plz": "21029",
+        "ort": "Hamburg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            53.48594205,
+            10.23599811930438
+        ]
+    },
+    {
+        "name": "Asklepios Klinik Nord - Heidberg",
+        "strasse": "Tangstedter Landstraße 400",
+        "plz": "22417",
+        "ort": "Hamburg",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            53.6746776,
+            10.0289778
+        ]
+    },
+    {
+        "name": "Katholisches Marienkrankenhaus GmbH",
+        "strasse": "Alfredstr. 9",
+        "plz": "22087",
+        "ort": "Hamburg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            53.5593252,
+            10.0316524
+        ]
+    },
+    {
+        "name": "Asklepios Klinik Wandsbek",
+        "strasse": "Alphonsstr. 14",
+        "plz": "22043",
+        "ort": "Hamburg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            53.5701303,
+            10.08819012811969
+        ]
+    },
+    {
+        "name": "Sana Klinikum Hameln-Pyrmont",
+        "strasse": "Saint-Maur-Platz 1",
+        "plz": "31785",
+        "ort": "Hameln",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            52.10753955,
+            9.351581383413528
+        ]
+    },
+    {
+        "name": "Westküstenklinikum Heide",
+        "strasse": "Esmarchstr. 50",
+        "plz": "25746",
+        "ort": "Heide",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            54.2002699,
+            9.0815052
+        ]
+    },
+    {
+        "name": "St. Josefskrankenhaus Heidelberg GmbH",
+        "strasse": "Landhausstraße 25",
+        "plz": "69115",
+        "ort": "Heidelberg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.402559,
+            8.68943236802841
+        ]
+    },
+    {
+        "name": "Eichsfeld Klinikum gGmbH",
+        "strasse": "Windische Gasse 112",
+        "plz": "37308",
+        "ort": "Heilbad Heiligenstadt",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.3761654,
+            10.1411493
+        ]
+    },
+    {
+        "name": "Eichsfeld Klinikum gGmbH - Neonatologie",
+        "strasse": "Windische Gasse 112",
+        "plz": "37308",
+        "ort": "Heilbad Heiligenstadt",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.3761654,
+            10.1411493
+        ]
+    },
+    {
+        "name": "Städtisches Krankenhaus Heinsberg GmbH",
+        "strasse": "Auf dem Brand 1",
+        "plz": "52525",
+        "ort": "Heinsberg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.064924,
+            6.094977850228399
+        ]
+    },
+    {
+        "name": "Kreiskrankenhaus Bergstraße gGmbH",
+        "strasse": "Viernheimer Str. 2",
+        "plz": "64646",
+        "ort": "Heppenheim",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.6281904,
+            8.625263991462004
+        ]
+    },
+    {
+        "name": "Gemeinschaftskrankenhaus Herdecke",
+        "strasse": "Gerhard-Kienle-Weg 4",
+        "plz": "58313",
+        "ort": "Herdecke",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.4120251,
+            7.4003177
+        ]
+    },
+    {
+        "name": "Gemeinschaftskrankenhaus Herdecke Abt. Kinder-/Jugendmedizin",
+        "strasse": "Gerhard-Kienle-Weg 4",
+        "plz": "58313",
+        "ort": "Herdecke",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.4120251,
+            7.4003177
+        ]
+    },
+    {
+        "name": "Mathilden Hospital Kath. Hospitalvereinigung Ostwestfalen gem. GmbH",
+        "strasse": "Renntormauer 1-3",
+        "plz": "32052",
+        "ort": "Herford",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            52.1119389,
+            8.67486314772563
+        ]
+    },
+    {
+        "name": "St. Anna Hospital",
+        "strasse": "Hospitalstr. 19",
+        "plz": "44649",
+        "ort": "Herne",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.5374037,
+            7.1590378
+        ]
+    },
+    {
+        "name": "Kreiskliniken Böblingen gGmbH - Krankenhaus Herrenberg",
+        "strasse": "Marienstr. 25",
+        "plz": "71083",
+        "ort": "Herrenberg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            48.59176335,
+            8.87512101552036
+        ]
+    },
+    {
+        "name": "Helios Klinikum Hildesheim GmbH",
+        "strasse": "Senator-Braun-Allee 33",
+        "plz": "31135",
+        "ort": "Hildesheim",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            52.1522969,
+            9.9753416
+        ]
+    },
+    {
+        "name": "Klinik Immenstadt Klinikverbund Allgäu gGmbH",
+        "strasse": "Im Stillen 1-3",
+        "plz": "87509",
+        "ort": "Immenstadt",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            47.5632218,
+            10.2308039
+        ]
+    },
+    {
+        "name": "Klinikum Itzehoe",
+        "strasse": "Robert-Koch-Str. 2",
+        "plz": "25524",
+        "ort": "Itzehoe",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            53.94230775,
+            9.501485945805914
+        ]
+    },
+    {
+        "name": "AGAPLESION DIAKONIE KLINIKEN KASSEL gemeinnützige GmbH",
+        "strasse": "Herkulesstraße 34",
+        "plz": "34119",
+        "ort": "Kassel",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.3138267,
+            9.4627316
+        ]
+    },
+    {
+        "name": "Klinikum Kassel",
+        "strasse": "Mönchebergstraße 41-43",
+        "plz": "34125",
+        "ort": "Kassel",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.3270621,
+            9.5080949
+        ]
+    },
+    {
+        "name": "Caritas-Krankenhaus St. Lukas GmbH",
+        "strasse": "Traubenweg 3",
+        "plz": "93309",
+        "ort": "Kelheim",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            48.924235,
+            11.8852181
+        ]
+    },
+    {
+        "name": "Heilig Geist-Krankenhaus GmbH",
+        "strasse": "Graseggerstr. 105",
+        "plz": "50737",
+        "ort": "Köln",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.9923606,
+            6.9239791
+        ]
+    },
+    {
+        "name": "Krankenhaus der Augustinerinnen gGmbH",
+        "strasse": "Jakobstraße 27-31",
+        "plz": "50678",
+        "ort": "Köln",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            50.9252782,
+            6.956810274478087
+        ]
+    },
+    {
+        "name": "Helios Frankenwaldklinik Kronach",
+        "strasse": "Friesener Str. 41",
+        "plz": "96317",
+        "ort": "Kronach",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.2434769,
+            11.3328272
+        ]
+    },
+    {
+        "name": "Klinikum Kulmbach",
+        "strasse": "Albert-Schweitzer-Str. 10",
+        "plz": "95326",
+        "ort": "Kulmbach",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.11811085,
+            11.466522040753762
+        ]
+    },
+    {
+        "name": "St. Martinus Krankenhaus",
+        "strasse": "Klosterstr. 32",
+        "plz": "40764",
+        "ort": "Langenfeld",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.13010775,
+            6.942580053476002
+        ]
+    },
+    {
+        "name": "St. Elisabeth-Krankenhaus Leipzig",
+        "strasse": "Biedermannstraße 84",
+        "plz": "4277",
+        "ort": "Leipzig",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.3029893,
+            12.3788469
+        ]
+    },
+    {
+        "name": "Kreiskliniken Böblingen gGmbH - Krankenhaus Leonberg - Geburtshilfe",
+        "strasse": "Rutesheimer Str. 50",
+        "plz": "71229",
+        "ort": "Leonberg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            48.8026014,
+            8.999395821625818
+        ]
+    },
+    {
+        "name": "Klinikum Leverkusen gGmbH",
+        "strasse": "Am Gesundheitspark 11",
+        "plz": "51375",
+        "ort": "Leverkusen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.0317985,
+            7.0331733
+        ]
+    },
+    {
+        "name": "Klinikum Leverkusen gGmbH",
+        "strasse": "Am Gesundheitspark 11",
+        "plz": "51375",
+        "ort": "Leverkusen",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.0317985,
+            7.0331733
+        ]
+    },
+    {
+        "name": "Asklepios Klinik Lich GmbH",
+        "strasse": "Goethestr. 4",
+        "plz": "35423",
+        "ort": "Lich",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.5245083,
+            8.8049103
+        ]
+    },
+    {
+        "name": "Asklepios Klinik Lindau",
+        "strasse": "Friedrichshafener Str. 82",
+        "plz": "88131",
+        "ort": "Lindau",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            47.5636716,
+            9.684165931825849
+        ]
+    },
+    {
+        "name": "Mühlenkreiskliniken (AöR)  Krankenhaus Lübbecke-Rahden",
+        "strasse": "Virchowstraße 65",
+        "plz": "32312",
+        "ort": "Lübbecke",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            52.29596515,
+            8.603656493240393
+        ]
+    },
+    {
+        "name": "Klinikum Vest GmbH",
+        "strasse": "Lipper Weg 11",
+        "plz": "45770",
+        "ort": "Marl",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.6624065,
+            7.1250207
+        ]
+    },
+    {
+        "name": "Krankenhaus Mechernich GmbH - Geburtsklinik",
+        "strasse": "St. Elisabethstr. 2-6",
+        "plz": "53894",
+        "ort": "Mechernich",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.5925382,
+            6.6512631752104046
+        ]
+    },
+    {
+        "name": "Krankenhaus Mechernich - Kinderklinik",
+        "strasse": "St. Elisabethstr. 2-6",
+        "plz": "53894",
+        "ort": "Mechernich",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.5925382,
+            6.6512631752104046
+        ]
+    },
+    {
+        "name": "Helios Klinikum Meiningen",
+        "strasse": "Bergstr. 3",
+        "plz": "98617",
+        "ort": "Meiningen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.5582374,
+            10.397371
+        ]
+    },
+    {
+        "name": "Helios Klinikum Meiningen",
+        "strasse": "Bergstr. 3",
+        "plz": "98617",
+        "ort": "Meiningen",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.5582374,
+            10.397371
+        ]
+    },
+    {
+        "name": "Johannes Wesling Klinikum Minden",
+        "strasse": "Hans-Nolte-Straße 1",
+        "plz": "32429",
+        "ort": "Minden",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            52.260675,
+            8.8890585
+        ]
+    },
+    {
+        "name": "St. Josef Krankenhaus Moers",
+        "strasse": "Asberger Str. 4",
+        "plz": "47441",
+        "ort": "Moers",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.4454023,
+            6.641041925129195
+        ]
+    },
+    {
+        "name": "Krankenhaus Neuwerk \"Maria von den Aposteln\" gGmbH",
+        "strasse": "Dünner Str. 214-216",
+        "plz": "41066",
+        "ort": "Mönchengladbach",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.2248343,
+            6.4697872
+        ]
+    },
+    {
+        "name": "Evangelisches Krankenhaus Mülheim",
+        "strasse": "Wertgasse 30",
+        "plz": "45468",
+        "ort": "Mülheim",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.4245961,
+            6.88241681464446
+        ]
+    },
+    {
+        "name": "Städtisches Klinikum München - Schwabing",
+        "strasse": "Kölner Platz 1",
+        "plz": "80804",
+        "ort": "München",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            48.1704193,
+            11.5777599
+        ]
+    },
+    {
+        "name": "Universitätsklinikum Münster",
+        "strasse": "Albert-Schweitzer-Campus 1 A1",
+        "plz": "48149",
+        "ort": "Münster",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.9613014,
+            7.5941205
+        ]
+    },
+    {
+        "name": "Stauferklinikum Schwäbisch Gmünd",
+        "strasse": "Wetzgauerstr.85",
+        "plz": "73557",
+        "ort": "Mutlangen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            48.8201708,
+            9.7871407
+        ]
+    },
+    {
+        "name": "Donau Klinik Neu-Ulm",
+        "strasse": "Krankenhausstr. 11",
+        "plz": "89231",
+        "ort": "Neu-Ulm",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            48.3939722,
+            9.9941478
+        ]
+    },
+    {
+        "name": "Kliniken des Landkreises Neustadt a. d. Aisch",
+        "strasse": "Paracelsusstr. 30",
+        "plz": "91413",
+        "ort": "Neustadt a. d. Aisch",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            49.5820264,
+            10.62235463448331
+        ]
+    },
+    {
+        "name": "Krankenhaus Hetzelstift",
+        "strasse": "Stiftstr. 10",
+        "plz": "67434",
+        "ort": "Neustadt/Weinstraße",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.3463039,
+            8.149481540168118
+        ]
+    },
+    {
+        "name": "Helios Albert-Schweitzer-Klinik Northeim",
+        "strasse": "Albert-Schweitzer-Weg 1",
+        "plz": "37154",
+        "ort": "Northeim",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.72951715,
+            9.978843801288328
+        ]
+    },
+    {
+        "name": "St. Theresien-Krankenhaus Nürnberg",
+        "strasse": "Mommsenstr. 24",
+        "plz": "90491",
+        "ort": "Nürnberg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.4696115,
+            11.1095576
+        ]
+    },
+    {
+        "name": "Klinikum Nürnberg-Süd",
+        "strasse": "Breslauer Str. 201",
+        "plz": "90411",
+        "ort": "Nürnberg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            49.4134566,
+            11.148787
+        ]
+    },
+    {
+        "name": "Ameos Klinikum Oberhausen -  St. Clemens-Hospital",
+        "strasse": "Wilhelmstr. 34",
+        "plz": "46145",
+        "ort": "Oberhausen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.5175112,
+            6.8448097
+        ]
+    },
+    {
+        "name": "Ameos Klinikum Oberhausen -  St. Clemens-Hospital",
+        "strasse": "Wilhelmstr. 34",
+        "plz": "46145",
+        "ort": "Oberhausen",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.5175112,
+            6.8448097
+        ]
+    },
+    {
+        "name": "AGAPLESION Ev. Klinikum Schaumburg gGmbH",
+        "strasse": "Zum Schaumburger Klinikum 1",
+        "plz": "31683",
+        "ort": "Obernkirchen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            52.2638082,
+            9.1053412
+        ]
+    },
+    {
+        "name": "Universitätsklinik für Gynäkologie und Geburtshilfe Klinikum Oldenburg AöR",
+        "strasse": "Rahel-Strauss-Str. 10",
+        "plz": "26133",
+        "ort": "Oldenburg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            53.112109,
+            8.217845
+        ]
+    },
+    {
+        "name": "GFO Kliniken Südwestfalen St. Martinus Hospital Olpe",
+        "strasse": "Hospitalweg 6",
+        "plz": "57462",
+        "ort": "Olpe",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.0274937,
+            7.8452253
+        ]
+    },
+    {
+        "name": "Oberhavel Kliniken GmbH, Klinik Oranienburg",
+        "strasse": "Robert-Koch-Str. 2-12",
+        "plz": "16515",
+        "ort": "Oranienburg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            52.7411343,
+            13.2497749
+        ]
+    },
+    {
+        "name": "Asklepios Klinik Parchim GmbH",
+        "strasse": "John-Brinckman-Str. 8-10",
+        "plz": "19370",
+        "ort": "Parchim",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            53.4300054,
+            11.854030317059191
+        ]
+    },
+    {
+        "name": "Siloah St. Trudpert Klinikum",
+        "strasse": "Wilferdinger Str. 67",
+        "plz": "75179",
+        "ort": "Pforzheim",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            48.8974056,
+            8.673541752038371
+        ]
+    },
+    {
+        "name": "Regio Kliniken GmbH, Klinikum Pinneberg",
+        "strasse": "Fahltskamp 74",
+        "plz": "25421",
+        "ort": "Pinneberg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            53.6544627,
+            9.81132182695904
+        ]
+    },
+    {
+        "name": "Helios Vogtland-Klinikum Plauen",
+        "strasse": "Röntgenstr. 2",
+        "plz": "8529",
+        "ort": "Plauen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.4904131,
+            12.1574267
+        ]
+    },
+    {
+        "name": "Caritas-Krankenhaus St. Josef",
+        "strasse": "Landshuter Str. 65",
+        "plz": "93053",
+        "ort": "Regensburg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.0068225,
+            12.119172605025266
+        ]
+    },
+    {
+        "name": "Klinikum Obergöltzsch Rodewisch",
+        "strasse": "Stiftstr. 10",
+        "plz": "8228",
+        "ort": "Rodewisch",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.5233814,
+            12.4109632
+        ]
+    },
+    {
+        "name": "Klinikum Saarbrücken gGmbH",
+        "strasse": "Winterberg 1",
+        "plz": "66113",
+        "ort": "Saarbrücken",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.2209812,
+            6.9965959
+        ]
+    },
+    {
+        "name": "CaritasKlinikum Saarbrücken",
+        "strasse": "Rheinstraße 2",
+        "plz": "66113",
+        "ort": "Saarbrücken",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.2477288,
+            6.9593653
+        ]
+    },
+    {
+        "name": "Klinikum Saarbrücken gGmbH",
+        "strasse": "Winterberg 1",
+        "plz": "66119",
+        "ort": "Saarbrücken",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.2209812,
+            6.9965959
+        ]
+    },
+    {
+        "name": "Helios Klinik Schwerin",
+        "strasse": "Wismarsche Str. 393-397",
+        "plz": "19049",
+        "ort": "Schwerin",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            53.651818,
+            11.4068293
+        ]
+    },
+    {
+        "name": "GRN-Klinik  Schwetzingen",
+        "strasse": "Bodelschwinghstraße 10",
+        "plz": "68723",
+        "ort": "Schwetzingen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.3778789,
+            8.570426188252872
+        ]
+    },
+    {
+        "name": "Diakonie Klinikum GmbH - Jung-Stilling-Krankenhaus",
+        "strasse": "Wichernstraße 40",
+        "plz": "57074",
+        "ort": "Siegen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            50.8515583,
+            8.0176122
+        ]
+    },
+    {
+        "name": "Marien Kliniken – St. Marien-Krankenhaus Siegen",
+        "strasse": "Kampenstraße 51",
+        "plz": "57072",
+        "ort": "Siegen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            50.87908485,
+            8.029839478268633
+        ]
+    },
+    {
+        "name": "SRH Kliniken Landkreis Sigmaringen GmbH",
+        "strasse": "Hohenzollernstraße 40",
+        "plz": "72488",
+        "ort": "Sigmaringen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            48.0966602,
+            9.2261411
+        ]
+    },
+    {
+        "name": "GRN-Klinik Sinsheim",
+        "strasse": "Alte Waibstadter Str. 2",
+        "plz": "74889",
+        "ort": "Sinsheim",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.2524613,
+            8.890284777541364
+        ]
+    },
+    {
+        "name": "Klinikum Stadt Soest gGmbH",
+        "strasse": "Senator-Schwartz-Ring 8",
+        "plz": "59494",
+        "ort": "Soest",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.5651639,
+            8.0784716
+        ]
+    },
+    {
+        "name": "Städtisches Klinikum Solingen gGmbH - Geburtshilfe",
+        "strasse": "Gotenstr. 1",
+        "plz": "42653",
+        "ort": "Solingen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.1854782,
+            7.0694225
+        ]
+    },
+    {
+        "name": "Städtisches Klinikum Solingen gGmbH",
+        "strasse": "Gotenstr. 1",
+        "plz": "42653",
+        "ort": "Solingen",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.1854782,
+            7.0694225
+        ]
+    },
+    {
+        "name": "Johanniter Krankenhaus Genthin-Stendal gGmbH",
+        "strasse": "Wendtstraße 31",
+        "plz": "39576",
+        "ort": "Stendal",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            52.594287,
+            11.746824
+        ]
+    },
+    {
+        "name": "St. Anna-Klinik",
+        "strasse": "Obere Waiblinger Str. 101",
+        "plz": "70374",
+        "ort": "Stuttgart",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            48.80721265,
+            9.230290478407271
+        ]
+    },
+    {
+        "name": "Marienhospital Stuttgart",
+        "strasse": "Böheimstr. 37",
+        "plz": "70199",
+        "ort": "Stuttgart",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            48.7612199,
+            9.163616
+        ]
+    },
+    {
+        "name": "GFO Kliniken Troisdorf St. Josef Hospital",
+        "strasse": "Hospitalstraße 45",
+        "plz": "53840",
+        "ort": "Troisdorf",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            50.817669300000006,
+            7.159479288905273
+        ]
+    },
+    {
+        "name": "Universitäts-Frauenklinik Tübingen",
+        "strasse": "Calwer Str. 7",
+        "plz": "72076",
+        "ort": "Tübingen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            48.5263237,
+            9.050382083877532
+        ]
+    },
+    {
+        "name": "Klinikum Landkreis Tuttlingen gGmbH",
+        "strasse": "Zeppelinstraße 21",
+        "plz": "78532",
+        "ort": "Tuttlingen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            47.9848795,
+            8.8333942
+        ]
+    },
+    {
+        "name": "Universitätsfrauenklinik Ulm",
+        "strasse": "Prittwitzstr. 43",
+        "plz": "89075",
+        "ort": "Ulm",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            48.410604,
+            9.9935257
+        ]
+    },
+    {
+        "name": "Christliches Klinikum Unna gGmbH",
+        "strasse": "Obere Husemannstr. 2",
+        "plz": "59423",
+        "ort": "Unna",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            51.53695015,
+            7.684782243879283
+        ]
+    },
+    {
+        "name": "Allgemeines Krankenhaus Viersen GmbH",
+        "strasse": "Hoserkirchweg 63",
+        "plz": "41747",
+        "ort": "Viersen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.2514473,
+            6.3828462
+        ]
+    },
+    {
+        "name": "Allgemeines Krankenhaus Viersen GmbH",
+        "strasse": "Hoserkirchweg 63",
+        "plz": "41747",
+        "ort": "Viersen",
+        "abteilung": "Neonatologie",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.2514473,
+            6.3828462
+        ]
+    },
+    {
+        "name": "GRN-Klinik Weinheim",
+        "strasse": "Röntgenstr. 1",
+        "plz": "69469",
+        "ort": "Weinheim",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.5493482,
+            8.6459933
+        ]
+    },
+    {
+        "name": "Asklepios Paulinen Klinik Wiesbaden",
+        "strasse": "Geisenheimer Str. 10",
+        "plz": "65197",
+        "ort": "Wiesbaden",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.0713742,
+            8.2271906
+        ]
+    },
+    {
+        "name": "St. Josefs-Hospital Wiesbaden GmbH",
+        "strasse": "Beethovenstr. 20",
+        "plz": "65189",
+        "ort": "Wiesbaden",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            50.07634535,
+            8.254440753668518
+        ]
+    },
+    {
+        "name": "Krankenhaus Winsen GmbH",
+        "strasse": "Friedrich-Lichtenauer-Allee 1",
+        "plz": "21423",
+        "ort": "Winsen",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            53.35055925,
+            10.200166662040491
+        ]
+    },
+    {
+        "name": "Marien Hospital Witten",
+        "strasse": "Marienplatz 2",
+        "plz": "58452",
+        "ort": "Witten",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Noch nicht Zertifiziert",
+        "coords": [
+            51.4446775,
+            7.3372777
+        ]
+    },
+    {
+        "name": "Klinikum Wolfsburg",
+        "strasse": "Sauerbruchstraße 7",
+        "plz": "38440",
+        "ort": "Wolfsburg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            52.4142698,
+            10.7684156
+        ]
+    },
+    {
+        "name": "Klinikum Worms gGmbH",
+        "strasse": "Gabriel-von-Seidl-Str. 81",
+        "plz": "67550",
+        "ort": "Worms",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.6493067,
+            8.320031122159074
+        ]
+    },
+    {
+        "name": "Klinikum Würzburg Mitte gGmbH",
+        "strasse": "Salvatorstr. 7",
+        "plz": "97074",
+        "ort": "Würzburg",
+        "abteilung": "Geburtshilfe",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.7937229,
+            9.9531356
+        ]
+    },
+    {
+        "name": "Klinikum Würzburg Mitte gGmbH",
+        "strasse": "Salvatorstr. 7",
+        "plz": "97074",
+        "ort": "Würzburg",
+        "abteilung": "Kinderklinik",
+        "zertifiziert": "Zertifiziert",
+        "coords": [
+            49.7937229,
+            9.9531356
+        ]
+    }
+]
